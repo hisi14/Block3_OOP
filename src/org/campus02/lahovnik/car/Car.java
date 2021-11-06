@@ -1,6 +1,8 @@
+package org.campus02.lahovnik.car;
+
 // public => access modifier
 // class => Schlüsselwort für Klasse
-// Car => Klassenname
+// org.campus02.lahovnik.car.Car => Klassenname
 public class Car {
     // 4 access modifier
     // keinen => package protected

@@ -1,3 +1,5 @@
+package org.campus02.lahovnik.person;
+
 public class PersonDemoApp {
 
     public static void main(String[] args) {

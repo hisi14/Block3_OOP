@@ -1,3 +1,5 @@
+package org.campus02.lahovnik.bank;
+
 public class BankDemoApp {
     public static void main(String[] args) {
 

@@ -1,10 +1,12 @@
+package org.campus02.lahovnik.car;
+
 public class CarDemoApp {
     public static void main(String[] args) {
 
         int number = 7;
         String numberString = "Seven";
 
-        Car golf5_G_876TU = new Car(); // damit wird ein Objekt von Car erstellt
+        Car golf5_G_876TU = new Car(); // damit wird ein Objekt von org.campus02.lahovnik.car.Car erstellt
         Car fiatPanda_G_123RU = new Car();
 
         golf5_G_876TU.setManufacturer("Volkswagen");

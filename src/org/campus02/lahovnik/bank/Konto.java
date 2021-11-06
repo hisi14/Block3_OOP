@@ -1,3 +1,5 @@
+package org.campus02.lahovnik.bank;
+
 public class Konto {
     private String inhaber;
     private double kontostand;
@@ -30,7 +32,7 @@ public class Konto {
             kontostand -= betrag;
         }
         else {
-            System.out.println("Nicht genügend Geld am Konto!");
+            System.out.println("Nicht genügend Geld am org.campus02.lahovnik.bank.Konto!");
         }
     }
 

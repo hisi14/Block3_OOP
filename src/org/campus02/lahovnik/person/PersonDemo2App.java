@@ -1,3 +1,7 @@
+package org.campus02.lahovnik.person;
+
+import org.campus02.lahovnik.person.Person;
+
 public class PersonDemo2App {
 
     public static void main(String[] args) {

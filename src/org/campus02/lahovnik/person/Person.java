@@ -1,3 +1,5 @@
+package org.campus02.lahovnik.person;
+
 public class Person {
     public String firstname;
     public String lastname;
